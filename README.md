@@ -8,10 +8,8 @@
 <p align="center">
 <img src="https://github.com/DimaRU/TridentCockpit/raw/master/Screenshots/iPhone%2011%20Pro%20Max.png" />
 </p>
-<h3 align="center"> ·
-<a href="https://github.com/DimaRU/TridentCockpit/releases">macOS releases</a> ·
-</h3>
 
+### [macOS page (development discontinued)](macOS.md)
 ---
 
 ## Features
@@ -50,6 +48,7 @@ The money received will go towards:
 * Buy an iPad to speed up iPad version testing.
 
 With Patreon, you can send me a small monthly amount of money, or make a one-time donation by canceling the monthly subscription after the first payment.
+
 
 ## Building from Source
 
@@ -95,7 +94,7 @@ cd TridentCockpit
 
 ## Author
 
-* **Dmitriy Borovikov** - [DimaRU](https://github.com/DimaRU), AOWD diver, iOS developer, Openrov Trident Kickstarter backer #1284
+**Dmitriy Borovikov** - [DimaRU](https://github.com/DimaRU), AOWD diver, iOS developer, Openrov Trident Kickstarter backer #1284
 
 ## License
 
