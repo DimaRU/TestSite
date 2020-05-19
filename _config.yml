@@ -1,13 +1,16 @@
-# Site Build Settings
+theme: jekyll-theme-cayman
+plugins:
+ - github-pages
+header_pages:
+  - privacy_policy.md
 
-# Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
-
-remote_theme: marella/jekyll-theme-github
-theme: jekyll-theme-github
 title: Trident Cockpit
-#description: <h2 align="center">Trident Cockpit is an alternative iOS/iPadOS/macOS control app for the <a href="https://www.sofarocean.com/products/trident?aff=30">Sofar Trident Underwater Drone.</a></h2>
-google_analytics: UA—XXXXXXXX-X
+color: "#20A1BD"
+description: "Trident Cockpit is an alternative iOS/iPadOS/macOS control app for the Sofar Trident Underwater Drone"
+google_analytics: UA-158634251-2
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - privacy_policy.md

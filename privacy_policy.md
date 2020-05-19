@@ -1,4 +1,4 @@
-## Privacy Policy
+### Privacy Policy
 
 Dmitriy Borovikov built the Trident Cockpit app as an Open Source app. This APP is provided by Dmitriy Borovikov at no cost and is intended for use as is.
 
