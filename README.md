@@ -144,3 +144,5 @@ Thanks to Jim N. for "Software Exploration - DDS and the Trident" series of post
 ## Disclaimer
 
 This project is unofficial (meaning not supported by or affiliated with Sofar Ocean). Use it at your own risk.
+
+## [Privacy policy](privacy_policy.md)

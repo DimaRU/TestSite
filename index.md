@@ -52,6 +52,7 @@ With Patreon, you can send me a small monthly amount of money, or make a one-tim
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
+
 ## Credits
 
 Thanks to Jim N. for "Software Exploration - DDS and the Trident" series of posts on [Openrov forum](https://forum.openrov.com/t/software-exploration-dds-and-the-trident-5-fastrtps/7277)
@@ -60,7 +61,9 @@ Thanks to Jim N. for "Software Exploration - DDS and the Trident" series of post
 
 This project is unofficial (meaning not supported by or affiliated with Sofar Ocean). Use it at your own risk.
 
-## More screenshots
+## [Privacy policy](privacy_policy.md)
+
+### More screenshots
 <p align="center">
 <img src="Screenshots/iPhone%2011%20Pro%20Max-1.png"/>
 <img src="Screenshots/iPhone%2011%20Pro%20Max-2.png"/>
