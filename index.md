@@ -3,10 +3,6 @@
 <a href="https://www.sofarocean.com/products/trident?aff=30">Sofar Trident Underwater Drone.</a></h2>
 
 <p align="center">
-<a href="https://itunes.apple.com/app/githawk-for-github/id----"><img src="images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" width="250" /></a>
-</p>
-
-<p align="center">
 <img src="Screenshots/iPhone%2011%20Pro%20Max.png"/>
 </p>
 
@@ -24,7 +20,7 @@
 * Show maintenance data: internal pressure, internal temperature, battery cycle count
 * Support payload connection and control. (now GoPro HERO 3/3+)
 
-### Payload control GoPro HERO 3/3+:
+### Control GoPro HERO 3/3+:
 * Control camera power
 * Camera recording control
 * Live preview
@@ -40,18 +36,17 @@
 ## Support the project
 <a href="https://www.patreon.com/DimaRU" data-patreon-widget-type="become-patron-button"><img src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2FDimaRU"></a>
 
-If you’re benefiting from my project, or simply like what I do, you can help me by donating some amount onetime or each month. Supporting me on [Patreon](https://www.patreon.com/DimaRU) will help pay for hardware needed for further development.
+>> If you’re benefiting from my project, or simply like what I do, you can help me by donating some amount onetime or each month. Supporting me on [Patreon](https://www.patreon.com/DimaRU) will help pay for hardware needed for further development.
 The money received will go towards:
 
 * Buy a GoPro Max 360 for support latest GoPro models in the app.
-* Buy an iPad to speed up iPad version testing.
 
 With Patreon, you can send me a small monthly amount of money, or make a one-time donation by canceling the monthly subscription after the first payment.
 
 
 ## Author
 
-* **Dmitriy Borovikov** - [DimaRU](https://github.com/DimaRU), AOWD diver, iOS developer, Openrov Trident Kickstarter backer #1284
+**Dmitriy Borovikov** - [DimaRU](https://github.com/DimaRU), AOWD diver, iOS developer, Openrov Trident Kickstarter backer #1284
 
 ## License
 
