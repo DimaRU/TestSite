@@ -132,7 +132,7 @@ cd TridentCockpit
 
 ## Author
 
-* **Dmitriy Borovikov** - [DimaRU](https://github.com/DimaRU), AOWD diver, iOS developer, Openrov Trident Kickstarter backer #1284
+**Dmitriy Borovikov** - [DimaRU](https://github.com/DimaRU), AOWD diver, iOS developer, Openrov Trident Kickstarter backer #1284
 
 ## License
 

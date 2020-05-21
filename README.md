@@ -2,7 +2,7 @@
 <h2 align="center">Trident Cockpit is an alternative iOS/iPadOS/macOS control app for the <a href="https://www.sofarocean.com/products/trident?aff=30">Sofar Trident Underwater Drone.</a></h2>
 
 <p align="center">
-<a href="https://itunes.apple.com/app/githawk-for-github/id----"><img src="images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" width="200" /></a>
+<a href="{{ site.appstore }}"><img src="images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" width="200" /></a>
 </p>
 
 <p align="center">
